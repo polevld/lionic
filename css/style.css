@@ -159,7 +159,7 @@ html {
 .section-hero {
   padding-top: 120px;
   padding-bottom: 130px;
-  background: url(./img/first-bg\ 1.jpg) right center no-repeat white; 
+  background: url(../img/first-bg\ 1.jpg) right center no-repeat white; 
   background-size: cover;
 }
 
@@ -208,7 +208,7 @@ html {
   width: 13px;
   height: 17px;
   margin-right: 10px;
-  background: url(./img/Shield-icon.svg) center center no-repeat transparent;
+  background: url(../img/Shield-icon.svg) center center no-repeat transparent;
   background-size: contain;
   transform: translateY(-1px);
 }
@@ -379,15 +379,15 @@ html {
 }
 
 .section-contacts-item-gps {
-  background-image: url('./img/Vector.svg');
+  background-image: url(../img/Vector.svg);
 }
 
 .section-contacts-item-phone {
-  background-image: url('./img/Vector-2.svg');
+  background-image: url(../img/Vector-2.svg);
 }
 
 .section-contacts-item-mail {
-  background-image: url('./img/Vector-3.svg');
+  background-image: url(../img/Vector-3.svg);
   background-size: auto 19px;
 }
 
@@ -527,20 +527,20 @@ input {
 .footer-social-icon-twitter {
   width: 18px;
   height: 15px;
-  background-image: url(./img/twitter.svg);
+  background-image: url(../img/twitter.svg);
 }
 
 .footer-social-icon-in {
   width: 18px;
   height: 19px;
-  background-image: url(./img/Linkedin.svg);
+  background-image: url(../img/Linkedin.svg);
   transform: translateY(-2px);
 }
 
 .footer-social-icon-mail {
   width: 24px;
   height: 17px;
-  background-image: url(./img/Email.svg);
+  background-image: url(../img/Email.svg);
 }
 
 
